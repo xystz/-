@@ -304,7 +304,7 @@ public class MainActivity extends Activity implements View.OnClickListener {
     };
 
     /**
-     * 语义理解回调。
+     * 语义理解回d调。
      */
     private SpeechUnderstanderListener mSpeechUnderstanderListener = new SpeechUnderstanderListener() {
 
