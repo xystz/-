@@ -328,7 +328,7 @@ public class MainActivity extends Activity implements View.OnClickListener {
                 } catch (JSONException e) {
                     e.printStackTrace();
                 }
-                // 显示
+                // 显示k
                 String text = result.getResultString();
 
                 if (cmd.contains("不开心") || cmd.contains("难过") || cmd.contains("不高兴") || cmd.contains("无精打采")) {
